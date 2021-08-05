@@ -1,1 +1,1 @@
-# DataScience_Master
+# Data Science for Economics - Master Course Assignment
